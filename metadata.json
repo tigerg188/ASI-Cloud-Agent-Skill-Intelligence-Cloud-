@@ -1,0 +1,6 @@
+{
+  "name": "ASI-Cloud (Agent/Skill Intelligence Cloud)",
+  "description": "Agent/Skill 通用智能运行平台 V3.0 - Phase 1 项目事实扫描与 Agent Plugins 1.0 契约对齐",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
